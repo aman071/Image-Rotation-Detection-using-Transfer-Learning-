@@ -1,7 +1,7 @@
 # Image-Rotation-Detection-using-Transfer-Learning-
 I used pretrained VGG-16 to carry out transfer learning to detect rotation in images.
 
-I will update the README with further details very soon.
+I will update the README with further details very soon. And add a sample collection of images, trained model file. The actual images I've used are not for public use.
 
 # Overview
 1. I had a collection of images, around 40k of different sizes.
