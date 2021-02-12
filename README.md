@@ -11,10 +11,10 @@ I will update the README with further details very soon. And add a sample collec
 5. Keras is used to load pretrained-VGG16 and add further layers on top, creating a network, loading train, validation, and test images.
 
 # Directory structure
-split_data/
-  train/
-    -1/
-     0/
+split_data/  
+  train/  
+    -1/  
+     0/  
      1/
      2/
   test/
