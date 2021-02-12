@@ -13,7 +13,7 @@ I will update the README with further details very soon. And add a sample collec
 # Directory structure
 split_data/  
   train/  
-    -1/  
+  \t  -1/  
      0/  
      1/  
      2/  
